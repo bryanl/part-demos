@@ -1,4 +1,4 @@
-local dex = {
+{
     generateConfigMap(src)::
         {
             apiVersion: "v1",
@@ -64,4 +64,4 @@ local dex = {
                 },
             },
     },
-};
+}
